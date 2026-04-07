@@ -1,5 +1,4 @@
 import { Geist, Geist_Mono } from 'next/font/google'
-import { Header } from '@/components/header'
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -14,9 +13,7 @@ const geistMono = Geist_Mono({
 export default function Home() {
   return (
     <div
-      className={`${geistSans.className} ${geistMono.className} flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black`}
-    >
-      <Header />
-    </div>
+      className={`${geistSans.className} ${geistMono.className} flex min-h-screen items-center justify-center`}
+    />
   )
 }
