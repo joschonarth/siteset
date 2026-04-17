@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button'
 export const FeatureSection = () => {
   return (
     <section className="bg-gray-700 pt-8 pb-8 md:py-10">
-      <div className="mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div className="container">
         <div className="grid gap-6 md:grid-cols-2">
           <div className="flex flex-col gap-4 rounded-lg bg-gray-500 p-6 md:p-12">
             <span className="w-fit rounded-sm bg-blue-400 px-2 py-1 text-blue-200 text-body-tag uppercase">

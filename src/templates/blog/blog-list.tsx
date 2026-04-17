@@ -24,7 +24,7 @@ export function BlogList() {
   return (
     <div className="flex h-full flex-grow flex-col py-24">
       <header className="pb-14">
-        <div className="mx-auto flex w-full max-w-7xl flex-col items-start justify-between space-y-6 px-4 sm:px-6 md:flex-row md:items-end lg:items-end lg:px-8">
+        <div className="container flex flex-col items-start justify-between space-y-6 md:flex-row md:items-end">
           <div className="flex flex-col gap-4 md:px-0">
             <span className="w-fit rounded-md bg-cyan-300 px-4 py-2 text-center text-body-tag text-cyan-100 md:text-left">
               BLOG
@@ -59,7 +59,7 @@ export function BlogList() {
       )}
 
       {!hasPosts && (
-        <div className="mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="container">
           <div className="flex flex-col items-center justify-center gap-8 rounded-lg border-2 border-gray-300 border-dashed p-8 md:p-12">
             <Inbox className="h-12 w-12 text-cyan-100" />
 

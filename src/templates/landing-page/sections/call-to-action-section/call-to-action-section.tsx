@@ -11,7 +11,7 @@ export const CallToActionSection = () => {
         <Store className="text-cyan-100" />
       </div>
 
-      <div className="relative mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div className="container relative flex flex-col items-center gap-6 text-center">
         <div className="flex flex-col items-center gap-6 text-center">
           <h2
             className={'text-balance font-sans text-gray-100 text-heading-xl'}

@@ -24,7 +24,7 @@ const customerStories = [
 export const CustomerStorySection = () => {
   return (
     <section className="py-8 md:py-10">
-      <div className="mx-auto flex w-full max-w-7xl flex-col items-center gap-12 px-4 sm:px-6 lg:px-8">
+      <div className="container flex flex-col items-center gap-12">
         <h2 className={'font-sans text-gray-100 text-heading-xl'}>
           Quem utiliza, aprova!
         </h2>
