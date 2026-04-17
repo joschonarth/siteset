@@ -36,7 +36,7 @@ export const PostCard = ({
 
           <Image
             alt={title}
-            className="h-40 w-full rounded-t-[8px] object-cover object-center"
+            className="h-40 w-full rounded-[8px] object-cover object-center"
             height={144}
             src={image}
             width={288}
