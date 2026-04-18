@@ -64,6 +64,7 @@ export default function PostPage() {
               <Avatar.Container>
                 <Avatar.Image
                   alt={post?.title}
+                  size="sm"
                   src={post.author.avatar.trim()}
                 />
                 <Avatar.Content>
