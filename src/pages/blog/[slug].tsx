@@ -93,7 +93,7 @@ export default function PostPage() {
           </article>
 
           <aside className="space-y-6">
-            <div className="rounded-lg bg-gray-700 p-4 md:p-6">
+            <div className="rounded-lg bg-gray-700">
               <h2 className="mb-4 text-gray-100 text-heading-xs">
                 Compartilhar
               </h2>
