@@ -32,7 +32,7 @@
 
 ## 📃 Sobre
 
-O **site-blog** é uma aplicação web composta por uma **landing page** moderna e um **blog** integrado, construída com **Next.js 16** utilizando o App Router. O conteúdo do blog é gerenciado via **Contentlayer2**, que transforma arquivos Markdown/MDX em dados tipados consumidos diretamente pela aplicação. A interface foi estilizada com **Tailwind CSS v4**, utilizando componentes do **shadcn/ui** e ícones do **Lucide React** e **React Icons**. A qualidade do código é garantida pelo **Biome** e pelo **Ultracite**.
+O **Site.Set** é uma aplicação web composta por uma **landing page** moderna e um **blog** integrado, construída com **Next.js 16** utilizando o App Router. O conteúdo do blog é gerenciado via **Contentlayer2**, que transforma arquivos Markdown/MDX em dados tipados consumidos diretamente pela aplicação. A interface foi estilizada com **Tailwind CSS v4**, utilizando componentes do **shadcn/ui** e ícones do **Lucide React** e **React Icons**. A qualidade do código é garantida pelo **Biome** e pelo **Ultracite**.
 
 ---
 
