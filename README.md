@@ -2,7 +2,7 @@
 
 <img alt="siteset" src="/public/logo.svg" />
 
-# Site.Set
+# 🏪 Site.Set
 
 *Uma landing page moderna com blog integrado, feita para quem quer presença online com estilo.*
 
